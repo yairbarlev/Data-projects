@@ -1,0 +1,8 @@
+The work and analisys of this repository is based on an article published by Rinato Gianella called "The Geometry of chance". The article show's that while the drawing of the lottery are random, using statistical tools you can find patterns in the "winning" lottery numbers. In the article all the calculations are made on a 48/6 lottery game, that means that a winning combination is a sequence of 6 numbers drawn out of a pull of 48 possible numbers with no repitition.
+
+My work that is based on DR Rinalto's article combines excel files and a python jupiter notebook, and is making the same calculations on the israeli lottery. with the chages that needed in order to fit the israeli game.
+
+Some background:
+The israeli lottery is a 37/6 game plus a 1/7 which means that in order to get the first prize a winning combination must include a sequence of 6 numbers that where drawn out of a pool of 37 numbers without repitition and another "Strong number" that was drawn from a pool of 7 numbers. The chances of a first price win are 1 in 16273488, for the purpose of the work we are going to ignore the choosing of the strong number and only focus on the 37/6 game which leaves us with a total number of possible combinations 2324784. 
+
+Since the work is based on the israeli lottery some of the files and explanations are in hebrew. in order to understand the work flow you should read the article first.
